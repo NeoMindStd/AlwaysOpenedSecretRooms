@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Always Opened Secret Rooms</name>
+    <directory>alwaysopenedsecretrooms</directory>
+    <description>Always opened secret rooms by starting with X-ray vision.</description>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Tweaks"/>
+</metadata>
