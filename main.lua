@@ -19,8 +19,7 @@ function alwaysOpenedSecretrooms:onPostPlayerInit()
 end
 
 function alwaysOpenedSecretrooms:onPostPlayerRender()
-	local player = Isaac.GetPlayer(0);
-	if (player:GetPlayerType() ~= PlayerType.PLAYER_LILITH and not isVisionAdded) then
+	if (not isVisionAdded) then
 		isVisionAdded = true
 		player:AddCollectible(CollectibleType.COLLECTIBLE_XRAY_VISION, 0, false);
 	end
