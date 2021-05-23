@@ -4,7 +4,7 @@
     <directory>alwaysopenedsecretrooms</directory>
     <id>2489944697</id>
     <description>Always opened secret rooms by starting with X-ray vision.</description>
-    <version>1.1</version>
+    <version>1.2</version>
     <visibility>Public</visibility>
     <tag id="Lua"/>
     <tag id="Items"/>
